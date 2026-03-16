@@ -1,0 +1,6 @@
+server:
+
+client:
+echo hello udp
+echo {'name': 'alice', 'n': 42}
+
