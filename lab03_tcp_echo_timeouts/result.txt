@@ -1,0 +1,17 @@
+server:
+server is listening on 9090
+new client ('127.0.0.1', 36908)
+received lala
+client left
+no client, listening again
+no client, listening again
+new client ('127.0.0.1', 35766)
+received exit
+client left
+^Cserver stop
+
+client:
+message (exit to quit): lala
+echo lala
+message (exit to quit): exit
+
