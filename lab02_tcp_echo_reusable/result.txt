@@ -1,0 +1,18 @@
+server:
+server is listening
+new client accepted ('127.0.0.1', 52300)
+received 1
+received 5gjfhngj
+received cnvm nlmn
+received exit
+client left, waiting for next
+
+client:
+message (exit to quit): 1
+echo 1
+message (exit to quit): 5gjfhngj
+echo 5gjfhngj
+message (exit to quit): cnvm nlmn
+echo cnvm nlmn
+message (exit to quit): exit
+
