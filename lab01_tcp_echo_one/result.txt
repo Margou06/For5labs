@@ -1,0 +1,6 @@
+server is listening
+new client accepted ('127.0.0.1', 39582)
+received data hello
+
+client:
+echo hello
